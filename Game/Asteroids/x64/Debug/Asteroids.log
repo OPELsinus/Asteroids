@@ -1,0 +1,3 @@
+﻿Asteroids.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Asteroids.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B).
+D:\C++ Projects\Asteroids\x64\Debug\Asteroids.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
